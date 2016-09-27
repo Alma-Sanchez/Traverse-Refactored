@@ -193,4 +193,3 @@ In addition, ```export.js``` file is available for including individual files.
 =======
 # Traverse-Refactored
 Now that we have grown as developers, here's our new and improved Traverse project
->>>>>>> 59b20b5d8040017713bcfa655df2da5f7dde184a
