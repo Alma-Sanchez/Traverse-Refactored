@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # aurelia-skeleton-navigation (typescript)
 
 ## Running The App
