@@ -1,5 +1,6 @@
 node_modules
-jspm_packages
+# jspm_packages
+# /dist
 bower_components
 .idea
 .DS_STORE
@@ -8,3 +9,4 @@ coverage
 test/e2e/dist
 /typings
 /export
+index.lock
